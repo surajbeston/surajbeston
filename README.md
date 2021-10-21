@@ -13,7 +13,7 @@ I'm a blooming developer interested in almost everything. But I've worked extens
 - :construction_worker_woman: I mostly like woking on backed logic.
 - :face_with_head_bandage:	I tend to over work on UI stuffs. Eg: `continously changing color shade to imperfection` :joy:
 - :raising_hand: I'm a hyperactive idea guy.
-- :microphone:	I'm a decent singer, still learning though.
+- :microphone:	I'm a decent vocalist, still learning though.
 
 ### Major Frameworks:
 
