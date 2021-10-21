@@ -23,9 +23,6 @@ I'm a blooming developer interested in almost everything. But I've worked extens
 
 ## Get Me:
 
-<a href = "https://www.facebook.com/suraj.jha.7355"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/4a90e2/external-facebook-social-media-justicon-lineal-color-justicon.png"/> </a>
-
-<a href ="https://twitter.com/suraj_change"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/4a90e2/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
-
-<a href="https://www.instagram.com/sooraz_zha/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/4a90e2/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
-</div>
+ - [Facebook](https://www.facebook.com/suraj.jha.7355)
+ - [Twitter](https://twitter.com/suraj_change)
+ - [Instagram](https://www.instagram.com/sooraz_zha)
